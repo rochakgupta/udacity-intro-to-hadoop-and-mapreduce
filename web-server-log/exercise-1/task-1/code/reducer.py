@@ -10,7 +10,6 @@ for line in sys.stdin:
 
     if oldKey and oldKey != thisKey:
         print oldKey, " ", hits
-        oldKey = thisKey
         hits = 0
 
     oldKey = thisKey
