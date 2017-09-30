@@ -1,5 +1,6 @@
 # -- Project --
 sales/data/
+web-server-log/data/
 
 # -- Python --
 # Byte-compiled / optimized / DLL files
